@@ -1,10 +1,10 @@
 ### Blendle FE assignment
 
-Tech:\
+Tech:
 * Used React Hooks with styled components.
 * Tests made with jest and react-testing-library, in the slice list.
 
-Folder arquitecture:\
+Folder arquitecture:
 * Components folder for shared components
 * Slices folder for each page slice
 * Styles folder for the general css styles
